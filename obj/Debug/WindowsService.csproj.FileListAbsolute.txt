@@ -1,0 +1,30 @@
+C:\Users\fadar\source\repos\WindowsService\bin\Debug\WindowsService.exe.config
+C:\Users\fadar\source\repos\WindowsService\bin\Debug\WindowsService.exe
+C:\Users\fadar\source\repos\WindowsService\bin\Debug\WindowsService.pdb
+C:\Users\fadar\source\repos\WindowsService\bin\Debug\EASendMail.dll
+C:\Users\fadar\source\repos\WindowsService\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\fadar\source\repos\WindowsService\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\fadar\source\repos\WindowsService\obj\Debug\WindowsService.csproj.AssemblyReference.cache
+C:\Users\fadar\source\repos\WindowsService\obj\Debug\WindowsService.csproj.SuggestedBindingRedirects.cache
+C:\Users\fadar\source\repos\WindowsService\obj\Debug\WindowsService.ProjectInstaller.resources
+C:\Users\fadar\source\repos\WindowsService\obj\Debug\WindowsService.ServiceReminder.resources
+C:\Users\fadar\source\repos\WindowsService\obj\Debug\WindowsService.csproj.GenerateResource.cache
+C:\Users\fadar\source\repos\WindowsService\obj\Debug\WindowsService.csproj.CoreCompileInputs.cache
+C:\Users\fadar\source\repos\WindowsService\obj\Debug\WindowsService.csproj.CopyComplete
+C:\Users\fadar\source\repos\WindowsService\obj\Debug\WindowsService.exe
+C:\Users\fadar\source\repos\WindowsService\obj\Debug\WindowsService.pdb
+C:\Users\USER\Documents\Uptc\9no Semestre\1er 50%\SO\WindowsService\bin\Debug\WindowsService.exe.config
+C:\Users\USER\Documents\Uptc\9no Semestre\1er 50%\SO\WindowsService\bin\Debug\WindowsService.exe
+C:\Users\USER\Documents\Uptc\9no Semestre\1er 50%\SO\WindowsService\bin\Debug\WindowsService.pdb
+C:\Users\USER\Documents\Uptc\9no Semestre\1er 50%\SO\WindowsService\bin\Debug\EASendMail.dll
+C:\Users\USER\Documents\Uptc\9no Semestre\1er 50%\SO\WindowsService\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\USER\Documents\Uptc\9no Semestre\1er 50%\SO\WindowsService\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\USER\Documents\Uptc\9no Semestre\1er 50%\SO\WindowsService\obj\Debug\WindowsService.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Uptc\9no Semestre\1er 50%\SO\WindowsService\obj\Debug\WindowsService.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Documents\Uptc\9no Semestre\1er 50%\SO\WindowsService\obj\Debug\WindowsService.ProjectInstaller.resources
+C:\Users\USER\Documents\Uptc\9no Semestre\1er 50%\SO\WindowsService\obj\Debug\WindowsService.ServiceReminder.resources
+C:\Users\USER\Documents\Uptc\9no Semestre\1er 50%\SO\WindowsService\obj\Debug\WindowsService.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Uptc\9no Semestre\1er 50%\SO\WindowsService\obj\Debug\WindowsService.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Uptc\9no Semestre\1er 50%\SO\WindowsService\obj\Debug\WindowsService.csproj.CopyComplete
+C:\Users\USER\Documents\Uptc\9no Semestre\1er 50%\SO\WindowsService\obj\Debug\WindowsService.exe
+C:\Users\USER\Documents\Uptc\9no Semestre\1er 50%\SO\WindowsService\obj\Debug\WindowsService.pdb
